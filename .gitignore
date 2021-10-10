@@ -1,5 +1,5 @@
 # Python file
-*.class
+*.py
 
 # Log file
 *.log
