@@ -105,7 +105,7 @@ Connects an *independent* clause to a *dependent* clause, like so:
 
 `If Janet is interesting, Mark is not interesting.`
 
-`if` looks for the primary adjective in the clause, being `is`.
+`if` looks for the primary verb in the clause, being `is`.
 
 #### *iii: CORRELATIVE CONJUNCTIONS*
 
